@@ -1,0 +1,1 @@
+Template pack which includes most of the basic files, but none of them actually do anything. This makes it very easy to edit.
